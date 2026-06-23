@@ -49,53 +49,132 @@ I craft clean, efficient, and scalable web applications. Passionate about turnin
 
 <div align="center">
 
-# 🌌 SYSTEM STATUS WINDOW
-
-## **Mohammed Irfan**  
-` TITLE: THE FRESHER WHO OVERCOMES ` • ` FATIGUE: 12 / 100 `
+# ⚔️ SYSTEM STATUS WINDOW
 
 ---
 
-### 🛡️ CORE ATTRIBUTES & VITALITY
+## MOHAMMED IRFAN 
+**RANK:** `E` • **TITLE:** `THE FRESHER`  
+**FATIGUE:** 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20/100
 
-| ATTRIBUTE | PARAMETER | SYSTEM LEVEL | CURRENT STAT METRIC |
-| :---: | :--- | :---: | :--- |
-| 🟢 | **VITALITY (Daily Work Endurance)** | **LV. 04** | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ **[4 Hours / Day]** |
-| 🧠 | **PROBLEM SOLVING ABILITY** | **LV. 15** | 🟦🟨⬜⬜⬜⬜⬜⬜⬜⬜ **[15% Complexity Critical Hit Rate]** |
-
----
-
-### 🔥 ACTIVE SKILLS
-*My active tech stack and software development capabilities.*
-
-*   **`[ACTIVE]` Web Development `(Front-End Web Development)` ── [A-RANK] `Lv. max`**
-    *   *Description:* Create Modern webpage from scratch. Converts Design into website.
-*   **`[ACTIVE]` Mutilate `(Debugging & Problem Solving)` ── [A-RANK] `Lv. 2`**
-    *   *Description:* Instantly slices through runtime bugs, memory leaks, and broken code dependencies.
-*   **`[ACTIVE]` Stealth `(Deep Work Focus)` ── [B-RANK] `Lv. 3`**
-    *   *Description:* Erases presence from all distractions (social media, notifications) for uninterrupted coding.
+> *"Minimum resources. Maximum output. Pure efficiency."*
 
 ---
 
-### 🏛️ ACTIVE QUESTS (PROJECTS)
-*Current dungeons and raid rooms you are clearing.*
+### 🎯 MISSION OBJECTIVE
 
-*   ⚔️ **Main Quest:** `Lightweight Ai Agent` ── **[65% CLEARED]**
-    * *Objective:* Build a robust production-ready API gateway.
-*   🛡️ **Sub-Quest:** `LEARN MATHS OF EFFICIENCY` ── **[1% UNLOCKED]**
-    * *Objective:* Learn Maths to Design Resource Friendly Application.
-*   💎 **Daily Grind:** `Problem Solving & Learn New Tech` ── **[Min 3 DAILY TARGET]**
+| Objective | Details |
+| :--- | :--- |
+| **Primary** | Convert 1 unit of resource → 10 units of output with low resources |
+| **Current Mission** | Learn DSA For Efficiency |
+
 
 ---
 
-*Last Stats Update: June 2026*
+### 📊 CORE STATS
+
+| Attribute | Level | Progress |
+| :--- | :---: | :--- |
+| 🐍 **Python** | Lv. 8 | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% |
+| 🎨 **Frontend Web** | Lv. 7 | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |
+| 📊 **EDA** | Lv. 2 | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20% |
+| 🧠 **Efficiency Instinct** | Lv. MAX | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| 🔥 **Learning Agility** | Lv. 9 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% |
+
+---
+
+### ⚔️ SKILLS UNLOCKED
+
+#### 🔥 Active Skills
+
+| Skill | Level | Rank | Effect |
+| :--- | :---: | :---: | :--- |
+| **Python Alchemy** | Lv. 8 | B+ | Writes clean OOP, decorators, generators, context managers. Builds CLI tools from scratch. |
+| **Frontend Crafting** | Lv. 7 | B | Builds responsive, pixel-perfect static sites with HTML5, Tailwind, JavaScript. |
+| **Basic EDA** | Lv. 2 | E+ | Loads CSVs into Pandas, summary stats, basic plots. Growing daily. |
+| **System Debugging** | Lv. 5 | C+ | Reads error logs, traces stack, finds root causes fast. Google-Fu + docs = unstoppable. |
+
+#### 🛡️ Passive Skills (Always Active)
+
+| Skill | Rank | Effect |
+| :--- | :---: | :--- |
+| **Efficiency Overdrive** | S | Never writes code without asking: "Can this run faster? Use less RAM? Fewer deps?" |
+| **Quality Over Quantity** | A | Prefers 3 well-built, documented tools over 20 half-broken scripts. |
+| **Growth Grinder** | B | Practices daily, focuses on weak spots, turns them into strengths systematically. |
+
+---
+
+### 📦 INVENTORY
+
+| Category | Items |
+| :--- | :--- |
+| **Libraries & Frameworks** | `Python` • `Pandas` • `Matplotlib` • `NumPy` • `OS` • `Shutil` • `Argparse` • `JSON` • `Flask` • `SQLite` • `MySQL` (basic) |
+| **Web Servers** | `GitHub Pages` • `Netlify` • `NGINX` |
+| **Tools** | `VS Code` • `Jupyter` • `Git` • `GitHub` • `MySQL Workbench` • `Linux/Bash` • `Excel` * `Ollama`|
+| **Own Tools** | `To-Do List Tracker` |
+
+---
+
+### 📁 PROJECTS COMPLETED
+
+| Project | Type | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **✅ To-Do List Tracker** | Web Task Manager | HTML,CSS,JS | ✅ Shipped |
+| **📊 Basic EDA Practice** | Data Exploration | `Pandas`, `Matplotlib`, `Jupyter` | ✅ Done |
+
+---
+
+### 🔮 UPCOMING SKILLS (Locked)
+
+| Skill | Target Rank | Status | Description |
+| :--- | :---: | :--- | :--- |
+| **Efficient Maths** | B | 📖 Active | Builds foundation for writing efficient, optimized code. |
+| **Master EDA** | B | 📖 Active | Deep Pandas, advanced visualizations, feature understanding. |
+| **Data Analysis** | B | 🔮 Planned | Statistics, hypothesis testing, data storytelling. |
+| **Backend Engineering** | B | 🔮 Planned | Flask/FastAPI, REST APIs, authentication, deployment. |
+| **Full-Stack Integration** | A | 🔮 Future | Connect Backend + Data + Frontend into complete systems. |
+
+---
+
+### 🏆 ACHIEVEMENTS UNLOCKED
+
+| Achievement | Details |
+| :--- | :--- |
+| ✅ **To-Do List v1.0** | Created persistent CLI task tracker with add/delete/mark-done functionality. |
+| 📊 **First EDA Report** | Cleaned raw CSV, generated summary stats, produced 3 meaningful visualizations. |
+| 🏅 **GitHub Portfolio** | Maintains clean, documented repositories with clear READMEs for every project. |
+
+---
+
+### ⚡ PLAYER CURRENT RANK
+
+
+
+<img src="https://img.shields.io/badge/Rank%20E-000000" width="250" alt="Rank E">
+
+
+---
+
+*Last System Sync: June 2026*
 
 </div>
+
+---
+
+### 📫 CONNECT WITH ME
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-irfan-inventor/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammedirfan9489@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irfan-inventor-123)
+
+<br>
+
+> *"Efficiency isn't a feature — it's the foundation."* – Host
 ---
 
 ### 📫 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/mohammed-irfan-inventor/)  •  [Email](mailto:Mohammedirfan9489@gmail.com)  •  [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/mohammed-irfan-inventor/)  •  [Email](mailto:Mohammedirfan9489@gmail.com)  •  [Portfolio](https://yourportfolio.com) not worked currently
 
 <br>
 
